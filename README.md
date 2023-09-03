@@ -1,0 +1,4 @@
+# Free-Energy This AMAC machine design was created to address the need for an energy creation system that could solve the perceived impossible effort to create more energy than was consumed, traditional energy systems such as fossil fuels, nuclear, wind, solar and tidal systems are either damaging to the environment or require complex development and management to prevail.
+The world needs more electricity but carbon is heating up the planet causing records to be broken and devastation for all life.
+We are all aware and it is heavily documented so this design has been made open source, free to use and modify to create even more efficient systems but it would be appreciated if the label of AMAC be used in any product created, even for one man’s insignificant ego.
+I have also listed Use Cases that may be of benefit for the future, thank you David Attenborough, this is for you and the reason I made it open source.
